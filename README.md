@@ -1,4 +1,4 @@
-React-Based Chat Room
+#React-Based Chat Room
 Description
 
 This project is a real-time chat application built using React. It allows users to log in using their Google accounts and join chat rooms to communicate with other logged-in users.
