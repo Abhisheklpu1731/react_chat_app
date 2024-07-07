@@ -13,6 +13,3 @@ This project is a real-time chat application built using React. It allows users 
 
 ## Technologies Used
 - **Frontend:** React, React Hooks, Redux (optional for state management), Material-UI (for UI components)
-
-![Chat Room](/images/chat-room.png)
-
