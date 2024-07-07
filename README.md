@@ -3,7 +3,7 @@
 ## Description
 This project is a real-time chat application built using React. It allows users to log in using their Google accounts and join chat rooms to communicate with other logged-in users.
 
-![Login Screen](/images/login-screen.png)
+![Login Screen](Screenshot 2024-03-17 160510.png)
 
 ## Features
 - **Google Authentication:** Users can log in securely using their Google accounts.
