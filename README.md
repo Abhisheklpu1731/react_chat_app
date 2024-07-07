@@ -1,8 +1,15 @@
-# React + Vite
+React-Based Chat Room
+Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a real-time chat application built using React. It allows users to log in using their Google accounts and join chat rooms to communicate with other logged-in users.
+Features
 
-Currently, two official plugins are available:
+    Google Authentication: Users can log in securely using their Google accounts.
+    Real-Time Chat: Seamless real-time messaging experience for instant communication.
+    Multiple Chat Rooms: Users can join different chat rooms based on their interests or needs.
+    Responsive Design: Ensures usability across various devices and screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+    Frontend: React, React Hooks, Redux (optional for state management), Material-UI (for UI components)
+    Backend: Firebase Authentication (for Google login), Firebase Realtime Database or Firestore (for real-time data synchronization)
